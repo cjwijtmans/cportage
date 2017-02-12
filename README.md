@@ -1,2 +1,2 @@
 # cportage
-portage bindings for portage.
+portage bindings for C
